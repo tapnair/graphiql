@@ -113,7 +113,7 @@
     "eslint-plugin-react": "7.19.0",
     "eslint-plugin-react-hooks": "^3.0.0",
     "execa": "^6.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fetch-mock": "6.5.2",
     "husky": "^4.2.3",
     "jest": "^27",
